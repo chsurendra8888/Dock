@@ -12,7 +12,9 @@ namespace myApp
                         Thread.Sleep(5000);
                         Console.WriteLine("Hello World!");
                         Console.WriteLine("Hello World!- This is my first commit");
-                        Console.WriteLine("Hello World!- This is my second modifications for try2");
+                        Console.WriteLine("Hello World!- This is my first mdifications for Try1");
+						Console.WriteLine("Hello World!- This is my second modifications for Try2");
+						
                 }
         }
 
