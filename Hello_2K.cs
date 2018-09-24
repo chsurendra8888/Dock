@@ -12,8 +12,7 @@ namespace myApp
                         Thread.Sleep(5000);
                         Console.WriteLine("Hello World!");
 			Console.WriteLine("Hello World!- This is my first commit");
-
-			Console.WriteLine("Hello World!- This is my second commit");
+			Console.WriteLine("Hello World!- This is my second commit for Try3");
 
                 }
         }
